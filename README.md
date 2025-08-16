@@ -7,7 +7,7 @@
 Me nombre es: **Pablo Elias Andino Guasch**
 Yo vivo en **Hurningham**, con mi familia que esta cerca de **villa tesei**.
 
-# Historia de mi carrera UNAHUR
+### Historia de mi carrera UNAHUR
 Lo conoci por primera vez en la pandemia (2020-2022) cuando mis padres me llevaron a vacunarme en el edificio origone A como 3 veces.
 Empece a cursar **UNAHUR** en **2022** con el **Curso de preparacion universitaria** que me fue maso debido a mis dificultades con las 2 materias de este curso pero puede aprobar.
 Al año siguiente (**2023**) Le pedi a las señoras de orientacion para incribirme en las materias del curso **Tecnicaturas en redes**. ya llevo ahora casi 3 años cursando esa materia con el curso de **Tecnicatura en programacion**, tengo esperanza de aprobar uno de los 2 cursos.

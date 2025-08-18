@@ -17,4 +17,4 @@ Al año siguiente (**2023**) Le pedi a las señoras de orientacion para incribir
 - Mi comida favorita es la milanesa y las empanadas.
 - Me gusta los video juegos, hacer deportes, mirar tele, etc.
 - Hago 2 deportes: Rugby y Taekwon-do.
-- Ayudo a mis padres con algunas actividades familiares en la casa
+- Ayudo a mis padres con algunas actividades familiares en la casa.
